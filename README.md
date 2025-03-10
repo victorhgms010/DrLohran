@@ -1,4 +1,4 @@
-# 🚀 Projeto de Desenvolvimento Web Finalizado!
+# 🚀 Projeto de Desenvolvimento Web 
 
 Estou entusiasmado em compartilhar o resultado do meu último trabalho: um aplicativo para **agendamento de consultorias** desenvolvido para o **Dr. Lohran**, utilizando **HTML, CSS e JavaScript**.
 
